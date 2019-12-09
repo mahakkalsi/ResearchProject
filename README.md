@@ -1,0 +1,3 @@
+# ResearchProject
+
+The project is based on the study of the join operation executed sequentially and parallelly using OpenMP on SharcNet and the type of join operation whose performance is studied is Inner join. The effect of increase in data, tables and attributes on the inner join operation is also considered in the project. The implementation is done on a shared-memory architecture using OpenMP and a high-performance computing platform is used known as SharcNet. Project shows how a simple inner join operation becomes complicated when executed sequentially with the large volume of data and how the complexity or execution time can be reduced to great extent using multiple cores.
